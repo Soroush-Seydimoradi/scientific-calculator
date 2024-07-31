@@ -1,2 +1,2 @@
 # scientific-calculator
-scientific calculator Uploaded
+Advanced Programming Semester Project
